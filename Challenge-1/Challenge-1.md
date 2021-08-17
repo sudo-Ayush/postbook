@@ -26,3 +26,11 @@ An attacker can login easily as the **Username** and **Password** used is weak.
 - Enable two-factor or multi-factor authentication.
 
 ## POC:
+
+![1](https://github.com/sudo-Ayush/postbook/blob/main/Challenge-1/poc/1.PNG)
+<br>
+
+![2](https://github.com/sudo-Ayush/postbook/blob/main/Challenge-1/poc/2.PNG)
+<br>
+
+![3](https://github.com/sudo-Ayush/postbook/blob/main/Challenge-1/poc/3.PNG)
