@@ -26,3 +26,14 @@ Insecure direct object references (IDOR) are a type of access control vulnerabil
 - The attacker will able to create any post as **Admin**.
 
 ## POC:
+
+![1](https://github.com/sudo-Ayush/postbook/blob/main/Challenge-3/poc/1.PNG)
+<br>
+
+![2](https://github.com/sudo-Ayush/postbook/blob/main/Challenge-3/poc/2.PNG)
+<br>
+
+![3](https://github.com/sudo-Ayush/postbook/blob/main/Challenge-3/poc/3.PNG)
+<br>
+
+![4](https://github.com/sudo-Ayush/postbook/blob/main/Challenge-3/poc/4.PNG)
