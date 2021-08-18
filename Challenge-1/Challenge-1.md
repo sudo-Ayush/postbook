@@ -17,7 +17,7 @@ Password : Password
 
 ## Impact: 
 
-An attacker can login easily as the **Username** and **Password** used is weak.
+An attacker can login easily as the **Username** and **Password** used are weak and commonly used.
 
 ## Password Best Practices
 
